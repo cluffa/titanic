@@ -4,6 +4,6 @@ score of 0.77751
 
 TODO:  
 - [x] predict NA ages
-- [] link families
-- [] model family survival
-- [] try more other models
+- [ ] link families
+- [ ] model family survival
+- [ ] try more other models
