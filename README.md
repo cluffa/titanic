@@ -1,6 +1,6 @@
 # Titanic Kaggle Competition
 Modeling and predicting survivors of the Titanic.  
-score of 0.77751
+Best Score: 0.77751
 
 TODO:  
 - [x] predict NA ages
