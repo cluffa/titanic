@@ -3,7 +3,8 @@ Modeling and predicting survivors of the Titanic.
 Best Score: 0.77751
 
 TODO:  
-- [x] predict NA ages
+- [ ] switch predicted NA ages to use sklearn imputer
+  - [ ] add imputed column for those values as well as estimates from original dataset 
 - [ ] link families
 - [ ] model family survival
 - [ ] try more other models
